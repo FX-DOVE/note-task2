@@ -1,0 +1,13 @@
+{
+  "files": {
+    "main.css": "/FX-DOVE/note-task2/static/css/main.6e667c19.css",
+    "main.js": "/FX-DOVE/note-task2/static/js/main.3bf090c3.js",
+    "index.html": "/FX-DOVE/note-task2/index.html",
+    "main.6e667c19.css.map": "/FX-DOVE/note-task2/static/css/main.6e667c19.css.map",
+    "main.3bf090c3.js.map": "/FX-DOVE/note-task2/static/js/main.3bf090c3.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.6e667c19.css",
+    "static/js/main.3bf090c3.js"
+  ]
+}
